@@ -5,9 +5,11 @@ We are building isolated logic for the four primary feed pillars to ensure every
 3. Listings Engine: 
 4. Deals Engine: 
 
+(The inputs are taken from SQL master db and we produce recommendations in JSON format. )
+
 
 Phase 2: The Unified "Interconnected" System (Roadmap)
-Once the centralized database architecture is finalized, these base models will be integrated into a Cross-Entity Hybrid System. This will allow:
+Once the centralized database architecture is ready, these base models will be integrated into a Cross-Entity Hybrid System. This will allow:
 
 1. Contextual Cross-Pollination: Recommending an "Event" based on a "Post" the user liked.
 2. Expanded Entities: Seamless integration of Blogs, Groups, and community-driven suggestions as the UI evolves.
